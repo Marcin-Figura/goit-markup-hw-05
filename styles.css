@@ -161,7 +161,6 @@ img {
   visibility: hidden;
   opacity: 0;
   pointer-events: none;
-  /*transform: scale(0);*/
 }
 
 /* ========END OKNO MODALNE=========*/
