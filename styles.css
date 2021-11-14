@@ -126,7 +126,7 @@ img {
   transform: scale(1);
   opacity: 1;
   visibility: visible;
-  transition: opacity 500ms linear;            
+  transition: 500ms linear;            
 }
 
 .modal{
@@ -164,6 +164,12 @@ img {
 }
 
 /* ========END OKNO MODALNE=========*/
+
+/* ========Modalne elementy=========*/
+
+
+
+/* ========Modalne elementy=========*/
 
 
 /* =========portfolio==========*/
@@ -341,6 +347,7 @@ img {
   border-radius: 4px;
   margin-top: 40px;
   margin-bottom: 200px;
+
 }
 
 .hero-button-text {
